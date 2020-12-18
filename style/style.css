@@ -1,0 +1,136 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.texte{
+    display: flex;
+}
+
+.texte .service{
+    position: relative;
+    top: 12px;
+    left: 10px;
+}
+.col-4{
+display: flex;
+}
+
+.col-8{
+    height: 55px;
+}
+.texte1{
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+ .col-4 img {
+    position: relative;
+    right: -100px;
+    top: 10px;
+
+}
+.menu ul{
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    text-decoration: none; 
+    list-style: none;   
+    top:10px;
+}
+.Tsearch{
+    border: black solid 1px;
+    height: 20px;
+    width: 500px;
+    position: absolute;
+    left: 20px;
+}
+
+
+
+.col-5{
+    height: 100px;
+}
+.zoneS {
+width: 300px;
+}                           /* boutton Zone de recherche*/
+.boutton { 
+    position: absolute;
+    right: 400px;
+    bottom: 440px;
+
+}
+
+.btn{
+    bottom: 24px;
+    left: 400px;
+}
+.form-control{
+     position: relative;
+     left: 8px;
+     width: 390px;
+     top: 19px;
+}.form-row{
+    border: 1px black solid;
+    display: flex;
+    top:  25px;
+    
+}
+.shadow-sm {
+    position:relative;
+    top: 130px;
+}
+.shadow:hover{
+    background-color: blue;
+}
+.shadow-sm .image{
+    position: relative;
+    left: 70px;
+    
+}
+.shadow-sm p {
+    position: relative;
+    left: 35px;
+}
+.T1{
+    position: relative;
+    top: 85px;
+    left: 500px;
+    
+}
+.T1:hover{
+    color: crimson;
+
+}
+.blocks2{
+    background-color: rgb(206, 197, 197);
+    position: relative;
+    top: 200px;
+    height: 900px;
+}  
+
+.T2{
+    position: relative;
+    left: 500px;
+    top: 40px;
+}
+
+.pied{
+    border: 1px solid black;
+    position: relative;
+    height: 20px;
+    width: 1350px;
+    top: 150px;
+}
+ footer .C{
+   right:55px;
+ }
+ .Voir{ 
+     background-color: black;
+ position: relative;
+ left: 550px;
+ width: 200px;
+ top: 100px;
+ }
+ .Voir p{
+    text-decoration-color:white; 
+ }
